@@ -15,3 +15,5 @@ public class Latihan1{
         diskon = jumlah*15/100;
         total = jumlah-diskon;
         System.out.println("Diskon 15% = " +diskon+ "\nJumlah harga :" +total);
+    }
+}
